@@ -2,9 +2,11 @@
 
 Home for a collaborative polyhedron-assisted storytelling endeavor.
 
+Most content will be in the [[https://github.com/tnalpgge/madapples-prophecies/wiki][wiki]].
+
 * License
 
-#+ATTR_HTML: :alt "Creative Commons License" 
+#+ATTR_HTML: :alt "Creative Commons License" :style border:0;
 [[https://creativecommons.org/licenses/by-nc-sa/4.0/][https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
 
 This work is licensed under [[https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode][Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]].
